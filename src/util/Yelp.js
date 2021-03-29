@@ -1,4 +1,5 @@
-const apiKey = "Ju-QhgmO6yt3PtAcjHDosU6Wc5fzw_-ibqDGJUt3-smF0-Zd0YUxetBR6QEhR94JTr7-xhtVEmp58CocYqfW_AT6t13hSWVw5KOAlMGrsigZtJq4XxCBqeYix8rgX3Yx";
+// API key removed from GitHub - put required key in below:
+const apiKey = "";
 
 let yelp = {
     search(term, location, sortBy){
